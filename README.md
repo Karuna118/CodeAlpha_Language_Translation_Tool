@@ -7,3 +7,6 @@ Supporting a wide range of languages, it recognizes idiomatic expressions, slang
 
 Designed for simplicity and speed, it’s a must-have for anyone looking to expand their global communication, improve accessibility, or bridge cultural gaps instantly. Whether for personal or professional use, this translation tool makes the world a little smaller by bringing people together through the power of language.
 
+Requirements
+Python 3.x
+Google API
